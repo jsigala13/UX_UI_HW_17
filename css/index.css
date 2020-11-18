@@ -1,0 +1,104 @@
+body{
+    font-family: sans-serif;
+}
+.navigation{
+    height: 50px;
+    background: #4E74A6;
+    mix-blend-mode: normal;
+    display: flex;
+    margin-left: 800px;
+}
+.section{
+    width: 450px;
+    height: 78px;
+    left: 25px;
+    top: 232px;
+
+}
+p{
+    display: black;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start:0px;
+    margin-inline-end:0px;
+    font-size: 32px;
+}
+img{
+    width: 141px;
+    height:41px;
+}
+.logo{
+    /*position: absolute;*/
+    width: 122px;
+    height: 41px;
+    left: 25px;
+    top: 38px;
+
+}
+.top{   
+        width: 500px;
+        left: 612px;
+        top: 38px;
+        background: #4E74A6;
+        mix-blend-mode: normal;
+        display:inherit;
+}
+.nav{
+    width:73%;
+    display: inline;
+    color: white;
+    background-color: #4e74a6;
+    flex-direction: row;
+    margin: 0px 5%;
+    list-style-type: none;
+}
+
+.ul{
+    width:50%;
+    margin-left: auto; 
+    list-style-type: none; 
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+li{
+    display:inline;
+    padding: center;
+    text-align:center;
+}
+}
+
+.heroImg{
+    position: absolute;
+    width: 122px;
+    height: 41px;
+    left: 25px;
+    top: 38px;  
+}
+.content{
+    width: 10000px;
+    margin: 0 auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    image
+}
+.inline-block2{
+    background-color: #4e74a6;
+    color: white;
+    width: 1440px;
+    height: 50px;
+    left: 0px;
+    display: inherit;
+    text-align:center;
+    position: fixed;
+    bottom:0;
+}
+/*
+.ul{
+    display: inline-block;
+    vertical-align: top;
+}
+li{
+    padding: center;
+}
