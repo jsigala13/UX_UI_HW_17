@@ -84,14 +84,14 @@ li{
     image
 }
 .inline-block2{
-    background-color: #4e74a6;
-    color: white;
-    width: 1440px;
-    height: 50px;
-    left: 0px;
-    display: inherit;
+    background-color:#4e74a6;
+    color:white;
+    width:1440px;
+    height:50px;
+    left:0px;
+    display:inherit;
     text-align:center;
-    position: fixed;
+    position:fixed;
     bottom:0;
 }
 /*
